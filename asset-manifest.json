@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/kodulaen/static/js/main.6437ace1.js",
+    "main.js": "/kodulaen/static/js/main.f3a6f9f4.js",
     "static/js/787.b6e36b20.chunk.js": "/kodulaen/static/js/787.b6e36b20.chunk.js",
     "index.html": "/kodulaen/index.html",
-    "main.6437ace1.js.map": "/kodulaen/static/js/main.6437ace1.js.map",
+    "main.f3a6f9f4.js.map": "/kodulaen/static/js/main.f3a6f9f4.js.map",
     "787.b6e36b20.chunk.js.map": "/kodulaen/static/js/787.b6e36b20.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.6437ace1.js"
+    "static/js/main.f3a6f9f4.js"
   ]
 }
