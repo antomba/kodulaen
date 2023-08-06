@@ -44,9 +44,6 @@ const Result = ({ data }) => {
           <Pie data={pieChartData} />
         </div>
       </Stack>
-      <Typography textAlign="center" variant="h5">
-        interestPerMonth: {interestPerMonth.toFixed(2)} €
-      </Typography>
     </Stack>
   );
 };
